@@ -7,4 +7,7 @@ As demonstrações estão em src/main/java/, em cada pasta existe um arquivo com
 ## Ferramentas utilizadas?
 - Maven
 - Java 8
-- Lombok 
+- [Lombok](https://mvnrepository.com/artifact/org.projectlombok/lombok/1.18.22) 
+- [OpenCSV](https://mvnrepository.com/artifact/com.opencsv/opencsv/5.5.2)
+- [Apache POI](https://mvnrepository.com/artifact/org.apache.poi/poi/5.0.0)
+- [Apache POI OOXML](https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml/5.0.0)
